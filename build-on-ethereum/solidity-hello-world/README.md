@@ -1,7 +1,9 @@
 # Hello world
-## This is the classic hello world intro code
+Beginner Level
 
-Introduction
+This is the classic hello world intro code
+
+## Introduction
 This quest is based on the examples seen in the popular repository solidity-by-example.org
 
 In this quest we're going to write code in simple increments and understand the basics of the Solidity programming language and its syntax.
@@ -10,7 +12,7 @@ This quest assumes that you are aware of what is Ethereum and are looking to bui
 
 This Quest is best suited for those who like to learn the syntax before the concepts.
 
-### Let's write code
+## Let's write code
 Write this code and run the test cases. Let's get a quick grasp of the programming language and syntax.
 
 ```sol
